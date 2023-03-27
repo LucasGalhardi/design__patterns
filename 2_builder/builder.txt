@@ -1,0 +1,7 @@
+O builder é um pattern que eu já vi em uso várias vezes, principalmente em Java e em desenvolvimento Android,
+onde você instancia um objeto e aí chama métodos auxiliares pra "terminar de construir ele"
+Para construir o builder por trás, no Builder você instancia o(s) objeto(s) base e "arruma" o objeto para o cliente
+que vai utilizá-lo
+
+Dá pra fazer as coisas sem o Builder, é apenas 1 estilo possível, o mais básico seria usar os atributos padrões,
+atributos nomeados no construtor ou até uma série de métodos setX()

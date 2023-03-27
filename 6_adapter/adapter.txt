@@ -1,0 +1,4 @@
+Esse aqui é legal, ele pega uma interface com uma utilização que não é o desejado e provê para um cliente (3º)
+a interface desejada.
+
+Curso: os conceitos e códigos foram bem explicadinhos mas os exercícios não são lá muito interessantes

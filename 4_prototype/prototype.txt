@@ -1,0 +1,4 @@
+não gostei desse, sei nem o que escrever direito
+
+mas, basicamente, a ideia é reaproveitar objetos já instanciados com propriedades e criar uma cópia
+(nova instância, não apenas a referência)

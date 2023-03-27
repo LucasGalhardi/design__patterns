@@ -1,0 +1,2 @@
+Esse padrão, sendo do tipo "constructional" é parecido com o Singleton e com o Builder, com a diferença que não é
+necessário uma única instância e também o objeto é contruído de uma vez (e não por partes)
